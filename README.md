@@ -9,29 +9,6 @@
 _The program will take inputted age of user, movie selected by user and selected showtime for movie and output a ticket price based on those three inputs._
 
 ## Project Specefications
-regular movie
-reg price : $15.00
-child price : $12.00 (20%off)
-senior price : $12.00 (20%off)
-
-first release movie (20% more than regular movie)
-reg price : $18.00
-child price : $14.40
-senior price : $14.40
-
-matinee showtime(1500)(10% less than regular movie)
-  regular movie
-  reg price : $13.50
-  child price : $10.80 
-  senior price : $10.80 
-
-first release movie
-  reg price : $16.20
-  child price : $12.96 (20%off)
-  senior price : $12.96 (20%off)
-
-
-
 
 |  Behavior                 |  Input  | Output
 |---------------------------|---------|-------
